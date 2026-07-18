@@ -1335,6 +1335,7 @@ markers:
   - {type: punctuation, offset: 1731, content: (, id: KR3l0118_CHANT_465-bkkpn372}
   - {type: variant, offset: 1731, length: 2, content: 石多, WYG: 䗋蝤䗋}
   - {type: variant, offset: 1731, length: 2, content: 石多, krp: 䗋蝤䗋}
+  - {type: voice, offset: 1731, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 1733, content: ), id: KR3l0118_CHANT_465-bkkpn373}
   - {type: punctuation, offset: 1733, content: ，, id: KR3l0118_CHANT_465-bkkpn374}
   - {type: 'tls:seg', offset: 1733, content: '', id: KR3l0118_CHANT_465-26a.7}
@@ -1367,6 +1368,7 @@ markers:
   - {type: punctuation, offset: 1761, content: (, id: KR3l0118_CHANT_465-bkkpn381}
   - {type: variant, offset: 1761, length: 2, content: 魚孚, WYG: 䱐奔䱐}
   - {type: variant, offset: 1761, length: 2, content: 魚孚, krp: 䱐奔䱐}
+  - {type: voice, offset: 1761, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 1763, content: ), id: KR3l0118_CHANT_465-bkkpn382}
   - {type: punctuation, offset: 1763, content: ，, id: KR3l0118_CHANT_465-bkkpn383}
   - {type: 'tls:seg', offset: 1763, content: '', id: KR3l0118_CHANT_465-27a.3}
@@ -1597,4 +1599,4 @@ markers:
   - {type: variant, offset: 2072, length: 0, content: '', WYG: 出南越記太平廣記卷四百六十五}
   - {type: variant, offset: 2072, length: 0, content: '', krp: 出南越記太平廣記卷四百六十五}
   back: []
-hash: sha256:c913ec2ed922df859831eb407ca3a2aac420dbca6aa03c03a28cd6b2981df2f0
+hash: sha256:4cd59523ab0d67b8e16b34d3604f4ae25650488b411f85edeb3c1e5225294c26
